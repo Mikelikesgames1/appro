@@ -1,0 +1,151 @@
+.playminecraft {
+  background-color: #4CAF50; /* Green */  
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor:pointer;
+}
+.onlinemc {
+  background-color: #ff0700; /* Red */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor:pointer;
+}
+.offlinemc {
+  background-color: #0009ff; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor:pointer;
+}
+.goback {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor:pointer;
+}
+.lagging {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor:pointer;
+}
+.playslope {
+  background-color: #0009ff; /* Blue */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor:pointer;
+}
+.chatwithfriendsorrequestgame {
+  background-color: #ff0700; /* Red */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor:pointer;
+}
+.playdemonshooter {
+  background-color: #0085ff; /* Bright Blue */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor:pointer;
+}
+.play1v1lol {
+  background-color: #6a0dad; /* Purple */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor:pointer;
+}
+.spinforfootballplayers {
+  background-color: #cccc00; /* Yellow */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor:pointer;
+}
+.cookieclicker {
+  background-color: #964b00; /* Brown */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor:pointer;
+}
+.mathpracticehard {
+  background-color: #000000; /* Black */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor:pointer;
+}
+.bottom-right {
+  position: fixed;
+  width: 500px;
+  height: 500px;
+  bottom: 0;
+  right: 0;
+}
+
+
+body {
+    background-image: url('city.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #000000;
+}
+
+h1 {
+color: #FFFFFF
+}
